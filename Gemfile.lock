@@ -36,6 +36,7 @@ GEM
       declarative-option (< 0.2.0)
       uber (< 0.2.0)
     retriable (3.1.2)
+    rmail (1.1.3)
     signet (0.9.0)
       addressable (~> 2.3)
       faraday (~> 0.9)
@@ -48,6 +49,7 @@ PLATFORMS
 
 DEPENDENCIES
   google-api-client
+  rmail
 
 BUNDLED WITH
-   1.16.3
+   1.16.4
